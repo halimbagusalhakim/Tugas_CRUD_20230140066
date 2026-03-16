@@ -2,7 +2,7 @@ package com.example.ktp.controller;
 
 import com.example.ktp.dto.KtpDto;
 import com.example.ktp.service.KtpService;
-import com.example.ktp.util.ApiResponse;
+import com.example.ktp.model.ApiResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

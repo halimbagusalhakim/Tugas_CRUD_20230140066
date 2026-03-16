@@ -1,4 +1,4 @@
-package com.example.ktp.util;
+package com.example.ktp.model;
 
 public class ApiResponse<T> {
     private String status;
