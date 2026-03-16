@@ -1,6 +1,6 @@
 package com.example.ktp.exception;
 
-import com.example.ktp.util.ApiResponse;
+import com.example.ktp.model.ApiResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
